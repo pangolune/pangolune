@@ -1,0 +1,9 @@
+{% include "head.html" %}
+</head>
+
+<body>
+  {{ section.content | safe }}
+  {% for post in section.pages %}
+  <h3 class="post_title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+  {% endfor %}
+</body>

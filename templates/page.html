@@ -1,0 +1,20 @@
+{% include "head.html" %}
+</head>
+
+<body>
+    <h2 class="post_title">{{ page.title }}</h2>
+    <p class="date">{{ page.date }}</p>
+    <article>
+    {{ page.content | safe }}
+    </article>
+
+    <nav class="chapters">
+    {% if page.extra.prev is defined %}
+    <a class="prev" href="/{{page.extra.prev}}">Previous chapter</a>
+    {% endif %}
+    {% if page.extra.next is defined %}
+    <a class="next" href="/{{page.extra.next}}">Next chapter</a>
+    {% endif %}
+    </nav>
+    {% include "nav.html" %}
+</body>
