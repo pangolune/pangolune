@@ -1,5 +1,6 @@
 +++
 title = "Chapter 2: Plum"
+date = 2020-09-29
 [extra]
 prev = 1
 next = 3

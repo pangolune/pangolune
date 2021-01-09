@@ -1,7 +1,9 @@
 +++
 title = "Chapter 3: Pango"
+date = 2020-10-31
 [extra]
 prev = 2
+next = 4
 +++
 
 The book “An Enchanted Fruit of Your Own”, authored by a renowned botanist from a university in Chenowth named Nadia Gombo, cost the same amount of gold as a single bird’s passage off of the island of Northenden. According to the catalogue Pango circled it in, the book instructed readers on how to grow enchanted fruits right at home. That was perfect because home is where Pango preferred to remain.
