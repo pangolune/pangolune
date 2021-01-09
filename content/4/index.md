@@ -1,5 +1,5 @@
 +++
-title = "Chapter4: Chickpea"
+title = "Chapter 4: Chickpea"
 date = 2020-01-09
 [extra]
 rss_include = true

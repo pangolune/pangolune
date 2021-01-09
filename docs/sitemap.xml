@@ -5,14 +5,24 @@
     </url>
     <url>
         <loc>https://pangolune.com/1/</loc>
+        <lastmod>2020-08-20</lastmod>
     </url>
     <url>
         <loc>https://pangolune.com/2/</loc>
+        <lastmod>2020-09-29</lastmod>
     </url>
     <url>
         <loc>https://pangolune.com/3/</loc>
+        <lastmod>2020-10-31</lastmod>
+    </url>
+    <url>
+        <loc>https://pangolune.com/4/</loc>
+        <lastmod>2020-01-09</lastmod>
     </url>
     <url>
         <loc>https://pangolune.com/404/</loc>
+    </url>
+    <url>
+        <loc>https://pangolune.com/about/</loc>
     </url>
 </urlset>
