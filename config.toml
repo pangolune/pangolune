@@ -1,5 +1,6 @@
 base_url = "https://pangolune.com"
 compile_sass = true
-generate_rss = true
+generate_feed = true
+feed_filename = "rss.xml"
 
 [extra]
