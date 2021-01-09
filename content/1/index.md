@@ -2,6 +2,7 @@
 title = "Chapter 1: Pango"
 date = 2020-08-20
 [extra]
+rss_include = true
 next = 2
 +++
 

@@ -2,6 +2,7 @@
 title = "Chapter4: Chickpea"
 date = 2020-01-09
 [extra]
+rss_include = true
 prev = 3
 +++
 

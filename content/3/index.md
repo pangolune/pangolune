@@ -2,6 +2,7 @@
 title = "Chapter 3: Pango"
 date = 2020-10-31
 [extra]
+rss_include = true
 prev = 2
 next = 4
 +++
